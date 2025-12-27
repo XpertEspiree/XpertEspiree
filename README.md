@@ -6,9 +6,9 @@
 
 ## 👨🏻‍💻 About Me
 
-- 💬 &nbsp; I’m currently learning Javascript.
+- 💬 &nbsp; I’m currently learning C Programming.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying at BVM Secondary Collage and I'm in 12th Standard.
+- 🎓 &nbsp; Studying at Shahid Smarak College and I'm in Bachelor 1st Year.
 - 👀 &nbsp; I'm currently focusing on **Web development**.
 - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Development.
 - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.
