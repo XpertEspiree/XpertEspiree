@@ -8,7 +8,7 @@
 
 - 💬 &nbsp; I’m currently learning C Programming.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying at Shahid Smarak College and I'm in Bachelor 1st Year.
+- 🎓 &nbsp; Studying at Shahid Smarak College and I'm in Bachelor 2nd Year.
 - 👀 &nbsp; I'm currently focusing on **Web development**.
 - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Development.
 - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.
