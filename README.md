@@ -18,10 +18,13 @@
 <p align="left">
   <!-- Java -->
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" alt="Java">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java">
+
 
   <!-- Linux -->
 
   <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="60" alt="Linux">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux">
 
   <!-- Git -->
 
