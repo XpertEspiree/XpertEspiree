@@ -17,27 +17,22 @@
 
 <p align="left">
   <!-- Java -->
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" alt="Java">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java">
 
   <!-- Linux -->
-
-  <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="60" alt="Linux">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux">
 
   <!-- Git -->
-
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git">
 
   <!-- VS Code -->
-
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60" alt="VS Code">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code">
 
   <!-- GitHub -->
-
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub">
 
   <!-- Terminal -->
-
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="60" alt="Terminal">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="60" alt="Terminal">
 </p>
 
 
