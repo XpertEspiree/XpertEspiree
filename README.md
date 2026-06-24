@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 💬 &nbsp; I’m currently learning C Programming.
+- 💬 &nbsp; I’m currently learning Java Programming.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying at Shahid Smarak College and I'm in Bachelor 2nd Year.
 - 👀 &nbsp; I'm currently focusing on **Web development**.
@@ -16,13 +16,30 @@
 ## 💻 Languages and Tools
 
 <p align="left">
-  <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+  <!-- Java -->
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" alt="Java">
+
+  <!-- Linux -->
+
+  <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="60" alt="Linux">
+
+  <!-- Git -->
+
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60" alt="Git">
+
+  <!-- VS Code -->
+
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60" alt="VS Code">
+
+  <!-- GitHub -->
+
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" alt="GitHub">
+
+  <!-- Terminal -->
+
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="60" alt="Terminal">
 </p>
+
 
 ## 🤝🏻🌐 Connect With Me On:
 
