@@ -4,27 +4,33 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="400"/>
 </div>
 
+
 ## 👨🏻‍💻 About Me
 
-- 💬 &nbsp; I’m currently learning Java Programming.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying at Shahid Smarak College and I'm in Bachelor 2nd Year.
-- 👀 &nbsp; I'm currently focusing on **Web development**.
-- 🌱 &nbsp; Learning more about Backend Architectures and Frontend Development.
-- ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.
+* 🎓   BCA Student at Shahid Smarak College
+* ☕   Currently Learning Java Programming
+* 🐧   Passionate About Linux and Open Source
+* 🌱   Learning Object-Oriented Programming and Data Structures
+* 💻   Improving My Skills with Git, GitHub and Neovim
+* 🚀   Building Projects and Expanding My Knowledge Every Day
+* 🎯   Aspiring Software Developer
+
 
 ## 💻 Languages and Tools
 
 <p align="left">
   <!-- Java -->
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" alt="Java">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java">
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java">
 
   <!-- Linux -->
 
   <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="60" alt="Linux">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux">
+
+  <!-- Neovim -->
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="60" alt="Neovim">
 
   <!-- Git -->
 
@@ -42,6 +48,7 @@
 
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="60" alt="Terminal">
 </p>
+
 
 
 ## 🤝🏻🌐 Connect With Me On:
