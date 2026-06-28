@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there! I'm Beenod Chhetri 👋</h1>
-  <h3>🚀 Frontend Developer | Open Source ♥ | Coder | Competitive Programmer 🚀</h3>
+  <h3>🚀 SoftWare Developer | Open Source ♥ | Coder | Competitive Programmer 🚀</h3>
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="400"/>
 </div>
 
